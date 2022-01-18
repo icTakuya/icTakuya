@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icTakuya
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ython
 - 💞️ I’m looking to collaborate on first OSS
 - 📫 How to reach me tlog.since2019@gmail.com
 
